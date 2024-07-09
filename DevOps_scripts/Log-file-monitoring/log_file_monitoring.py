@@ -1,4 +1,4 @@
-i#This script monitors a log file and prints a message when it detects an "ERROR".
+#This script monitors a log file and prints a message when it detects an "ERROR".
 import time
 
 def tail_log(file_path):
